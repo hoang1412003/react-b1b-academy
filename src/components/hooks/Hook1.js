@@ -18,6 +18,8 @@ function Hook1() {
             <button onClick={()=>setResult((a / b).toFixed(2))}>/</button>
 
             <p>result: {result}</p>
+
+            <p>Đã sữa</p>
         </div>
     );
 }
